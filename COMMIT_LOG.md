@@ -249,3 +249,4 @@
 ## 2020-02-01 17:22:08 - feat(monitor): implement monitor feature (5/20)
 ## 2020-03-13 19:33:52 - feat(metric): create metric handler
 ## 2020-03-22 14:49:19 - feat(data): implement data feature (20/20)
+## 2020-05-16 20:08:22 - feat(cache): add cache support (16/20)
