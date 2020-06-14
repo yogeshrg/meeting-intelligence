@@ -4,3 +4,4 @@
 ## 2020-03-13 19:33:52 - feat(metric): create metric handler
 ## 2020-03-22 14:49:19 - feat(data): implement data feature (20/20)
 ## 2020-05-16 20:08:22 - feat(cache): add cache support (16/20)
+## 2020-06-14 12:15:30 - feat(test): create test handler (8/20)
