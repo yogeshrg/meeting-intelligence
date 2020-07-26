@@ -253,3 +253,4 @@
 ## 2020-06-14 12:15:30 - feat(test): create test handler (8/20)
 ## 2020-07-12 22:55:11 - feat(queue): implement queue feature (5/20)
 ## 2020-07-25 18:07:06 - feat(auth): add auth endpoint (10/20)
+## 2020-07-26 21:20:57 - feat(worker): implement worker feature (5/20)
