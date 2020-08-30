@@ -10,3 +10,4 @@
 ## 2020-07-26 21:20:57 - feat(worker): implement worker feature (5/20)
 ## 2020-08-02 23:35:01 - feat(build): add build support (9/20)
 ## 2020-08-22 16:32:35 - feat(ui): add ui support (11/20)
+## 2020-08-30 20:31:13 - feat(monitor): implement monitor module (19/20)
