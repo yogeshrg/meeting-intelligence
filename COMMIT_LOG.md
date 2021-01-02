@@ -259,3 +259,4 @@
 ## 2020-08-30 20:31:13 - feat(monitor): implement monitor module (19/20)
 ## 2020-10-11 23:56:51 - feat(queue): add queue support (7/20)
 ## 2020-11-21 15:57:01 - feat(alert): create alert handler (16/20)
+## 2021-01-02 21:25:58 - feat(cache): add cache support (15/20)
