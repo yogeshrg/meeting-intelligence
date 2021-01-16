@@ -261,3 +261,4 @@
 ## 2020-11-21 15:57:01 - feat(alert): create alert handler (16/20)
 ## 2021-01-02 21:25:58 - feat(cache): add cache support (15/20)
 ## 2021-01-10 13:11:37 - feat(api): implement api module (11/20)
+## 2021-01-16 15:57:37 - feat(db): implement db feature (10/20)
