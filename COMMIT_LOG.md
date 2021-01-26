@@ -16,3 +16,4 @@
 ## 2021-01-02 21:25:58 - feat(cache): add cache support (15/20)
 ## 2021-01-10 13:11:37 - feat(api): implement api module (11/20)
 ## 2021-01-16 15:57:37 - feat(db): implement db feature (10/20)
+## 2021-01-26 19:13:27 - feat(deploy): implement deploy module
