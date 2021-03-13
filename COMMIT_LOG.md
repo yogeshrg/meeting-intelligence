@@ -264,3 +264,4 @@
 ## 2021-01-16 15:57:37 - feat(db): implement db feature (10/20)
 ## 2021-01-26 19:13:27 - feat(deploy): implement deploy module
 ## 2021-02-18 17:38:42 - feat(security): add security support
+## 2021-03-13 09:54:42 - feat(build): implement build module (15/20)
