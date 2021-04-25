@@ -143,3 +143,4 @@
 ## 2021-02-18 17:38:42 - feat(security): add security support
 ## 2021-03-13 09:54:42 - feat(build): implement build module (15/20)
 ## 2021-03-28 12:17:27 - feat(ui): create ui handler (14/20)
+## 2021-04-25 17:00:23 - feat(security): create security handler (11/20)
