@@ -145,3 +145,4 @@
 ## 2021-03-28 12:17:27 - feat(ui): create ui handler (14/20)
 ## 2021-04-25 17:00:23 - feat(security): create security handler (11/20)
 ## 2021-05-08 18:26:55 - feat(infra): implement infra module (19/20)
+## 2021-06-05 23:08:23 - feat(db): implement db feature (16/20)
