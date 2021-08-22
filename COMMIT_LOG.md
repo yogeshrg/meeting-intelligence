@@ -152,3 +152,4 @@
 ## 2021-07-25 12:49:18 - feat(metric): add metric endpoint (7/20)
 ## 2021-07-25 21:41:17 - feat(log): add log support (20/20)
 ## 2021-08-22 12:04:01 - feat(queue): add queue support (17/20)
+## 2021-08-22 13:01:14 - feat(queue): create queue handler (19/20)
