@@ -28,3 +28,4 @@
 ## 2021-07-18 18:46:03 - feat(docs): implement docs module (14/20)
 ## 2021-07-25 12:49:18 - feat(metric): add metric endpoint (7/20)
 ## 2021-07-25 21:41:17 - feat(log): add log support (20/20)
+## 2021-08-22 12:04:01 - feat(queue): add queue support (17/20)
