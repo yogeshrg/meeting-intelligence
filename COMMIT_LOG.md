@@ -155,3 +155,4 @@
 ## 2021-08-22 13:01:14 - feat(queue): create queue handler (19/20)
 ## 2021-09-19 16:21:34 - feat(api): add api endpoint (10/20)
 ## 2021-10-09 21:19:11 - feat(deploy): create deploy handler (14/20)
+## 2021-11-19 15:35:43 - feat(core): add core support
