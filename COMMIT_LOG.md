@@ -280,3 +280,4 @@
 ## 2021-10-09 21:19:11 - feat(deploy): create deploy handler (14/20)
 ## 2021-11-19 15:35:43 - feat(core): add core support
 ## 2022-01-02 22:07:13 - feat(auth): add auth support (10/20)
+## 2022-01-08 13:22:29 - feat(infra): implement infra module (1/20)
