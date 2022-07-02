@@ -43,3 +43,4 @@
 ## 2022-05-21 18:11:36 - feat(metric): add metric support (5/20)
 ## 2022-05-29 22:36:40 - feat(security): create security handler (19/20)
 ## 2022-06-19 16:56:50 - feat(worker): add worker endpoint (14/20)
+## 2022-07-02 15:31:38 - feat(docs): implement docs feature (5/20)
