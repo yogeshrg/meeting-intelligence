@@ -48,3 +48,4 @@
 ## 2022-07-03 17:26:54 - feat(ui): implement ui module (14/20)
 ## 2022-07-24 09:05:36 - feat(data): add data endpoint (2/20)
 ## 2022-07-31 20:08:25 - feat(alert): create alert handler (9/20)
+## 2022-08-07 14:02:24 - feat(build): add build support (16/20)
