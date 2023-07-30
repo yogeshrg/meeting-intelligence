@@ -73,3 +73,4 @@
 ## 2023-06-18 22:40:36 - feat(build): add build support (16/20)
 ## 2023-06-24 20:32:30 - feat(queue): add queue endpoint (12/20)
 ## 2023-06-24 23:25:24 - feat(api): add api support (2/20)
+## 2023-07-30 18:52:53 - feat(infra): implement infra feature (7/20)
