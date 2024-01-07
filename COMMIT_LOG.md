@@ -326,3 +326,4 @@
 ## 2023-11-05 10:59:49 - feat(data): implement data feature (1/20)
 ## 2023-11-12 14:30:17 - feat(ui): implement ui module (11/20)
 ## 2023-12-01 10:34:51 - feat(infra): implement infra feature
+## 2024-01-07 22:06:08 - feat(infra): add infra support (2/20)
