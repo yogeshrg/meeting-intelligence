@@ -83,3 +83,4 @@
 ## 2024-01-07 22:06:08 - feat(infra): add infra support (2/20)
 ## 2024-01-28 16:05:56 - feat(build): add build endpoint (19/20)
 ## 2024-03-02 21:20:11 - feat(db): create db handler (20/20)
+## 2024-03-30 09:28:51 - feat(ui): add ui support (18/20)
