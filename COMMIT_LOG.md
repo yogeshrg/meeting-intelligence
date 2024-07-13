@@ -333,3 +333,4 @@
 ## 2024-05-25 20:59:38 - feat(metric): create metric handler (20/20)
 ## 2024-06-29 20:31:34 - feat(model): implement model feature (16/20)
 ## 2024-07-13 12:18:45 - feat(infra): add infra endpoint (5/20)
+## 2024-07-13 17:48:01 - feat(api): add api endpoint (12/20)
