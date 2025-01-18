@@ -89,3 +89,4 @@
 ## 2024-07-13 12:18:45 - feat(infra): add infra endpoint (5/20)
 ## 2024-07-13 17:48:01 - feat(api): add api endpoint (12/20)
 ## 2024-11-16 17:38:28 - feat(alert): create alert handler (5/20)
+## 2025-01-18 14:51:15 - feat(docs): add docs support (7/20)
