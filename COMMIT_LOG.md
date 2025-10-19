@@ -104,3 +104,4 @@
 ## 2025-09-07 15:25:04 - feat(config): add config endpoint (12/20)
 ## 2025-09-28 23:13:05 - feat(api): create api handler (12/20)
 ## 2025-10-11 16:02:42 - feat(test): add test endpoint (16/20)
+## 2025-10-19 20:10:56 - feat(model): add model support (5/20)
