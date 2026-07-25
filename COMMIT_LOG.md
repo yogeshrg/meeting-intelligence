@@ -364,3 +364,4 @@
 ## 2026-05-30 10:19:08 - feat(auth): add auth support (16/20)
 ## 2026-06-20 17:36:26 - feat(api): implement api feature (8/20)
 ## 2026-07-18 21:17:31 - feat(db): add db endpoint (14/20)
+## 2026-07-25 14:13:33 - feat(core): add core endpoint (2/20)
